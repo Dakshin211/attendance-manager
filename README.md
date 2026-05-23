@@ -11,14 +11,14 @@ A desktop-based attendance management system developed using Python, Tkinter, an
 
 ## Screenshots
 
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
+### Login
+![Dashboard](screenshots/login.png)
+
+### Selection
+![QR Scanner](screenshots/selection.png)
 
 ### QR Attendance Scanner
-![QR Scanner](screenshots/qr-scanner.png)
-
-### Attendance Records
-![Attendance Records](screenshots/attendance-records.png)
+![Attendance Records](screenshots/scan.png)
 
 ## Tech Stack
 - Python
